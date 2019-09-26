@@ -26,6 +26,7 @@ server-side
 * Allow a user to sign up by asking a email, username, password
 * Send a confirm mail
 
+
 ### My profil
 * Complete and update his profil
 * Popularity Score
@@ -42,6 +43,9 @@ server-side
 * Last visit
 * Report fake accounts
 * Block users
+
+
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.00.36%20PM.png)
 
 ### Chat
 * Create notification that you can see from everywhere
