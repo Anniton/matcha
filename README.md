@@ -44,7 +44,6 @@ server-side
 * Match proposition has to be sortable and filtrable 
 
 ![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.01.35%20PM.png)
-![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.06.34%20PM.png)
 ![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.16.11%20PM.png)
 
 ### Users profil
@@ -67,4 +66,4 @@ server-side
 * Like/ unlike
 * History
 * Message
-
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.06.34%20PM.png)
