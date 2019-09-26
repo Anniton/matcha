@@ -20,6 +20,9 @@ server-side
  ```ruby
  * MySQL
  ```
+ 
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%2012.57.04%20PM.png)
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%2012.57.20%20PM.png)
 
 ## Objectives
 ### User features
@@ -32,10 +35,17 @@ server-side
 * Popularity Score
 * See other profil
 
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%2012.59.37%20PM.png)
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%2012.59.55%20PM.png)
+
 ### Match me if you can...
 * Have a default suggestion list only if the profil is completed
 * Matched by sexual orientation/ localization/ hobbies/ popularity score
 * Match proposition has to be sortable and filtrable 
+
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.01.35%20PM.png)
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.06.34%20PM.png)
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.16.11%20PM.png)
 
 ### Users profil
 * Like/ unlike
@@ -44,12 +54,14 @@ server-side
 * Report fake accounts
 * Block users
 
-
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.09.32%20PM.png)
 ![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.00.36%20PM.png)
 
 ### Chat
 * Create notification that you can see from everywhere
 * Only if there is a match
+
+![alt text](https://github.com/Anniton/matcha/blob/master/Screen%20Shot%202019-08-28%20at%201.03.25%20PM.png)
 
 ### Notifications
 * Like/ unlike
